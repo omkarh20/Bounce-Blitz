@@ -1,5 +1,5 @@
 # Bounce-Blitz
-A simple free throw Basketball Game made using Python
+A simple free-throw Basketball Game made using Python
 
 # How to Play
 - A ball moves across the black bar. Press the ENTER key when it reaches the center to shoot the ball.
